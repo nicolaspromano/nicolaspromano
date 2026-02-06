@@ -1,7 +1,5 @@
 ## 👨🏼‍💻 Nicolas de Paulo Romano
 
-**`Estudante de Engenharia de Computação pela UTFPR`**
-
 Olá! Sou o **Nicolas**, tenho 22 anos e sou graduando em **Engenharia de Computação na UTFPR**. Atualmente no 9º período, foco meus estudos na aplicação de Inteligência Artificial para resolver problemas complexos do mundo real.
 
 <p align="left">
