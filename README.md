@@ -4,8 +4,7 @@ Olá! Sou o **Nicolas**, tenho 22 anos e sou graduando em **Engenharia de Comput
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolaspromano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Acesse meu perfil do Linkedin" /></a>
-  <a href="mailto:nicolaspromano21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Entre em contato por e-mail" /></a>
-</p>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolaspromano21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Entre em contato por e-mail" /></a>
 
 ### Linguagens
 <img 
