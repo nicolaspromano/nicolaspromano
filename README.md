@@ -1,4 +1,4 @@
-## 👨🏼‍💻 Nicolas de Paulo Romano
+## Nicolas de Paulo Romano
 
 Olá! Sou o **Nicolas**, tenho 22 anos e sou graduando em **Engenharia de Computação na UTFPR**. Atualmente no 10º período.
 
