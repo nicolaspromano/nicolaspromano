@@ -1,6 +1,6 @@
 ## 👨🏼‍💻 Nicolas de Paulo Romano
 
-Olá! Sou o **Nicolas**, tenho 22 anos e sou graduando em **Engenharia de Computação na UTFPR**. Atualmente no 9º período.
+Olá! Sou o **Nicolas**, tenho 22 anos e sou graduando em **Engenharia de Computação na UTFPR**. Atualmente no 10º período.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolaspromano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Acesse meu perfil do Linkedin" /></a>
